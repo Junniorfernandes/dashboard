@@ -3,5 +3,5 @@ pandas
 plotly
 python-docx
 fpdf
-matplotlib
 openpyxl
+kaleido
