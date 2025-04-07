@@ -4,7 +4,6 @@ import plotly.express as px
 from docx import Document
 from datetime import timedelta
 from fpdf import FPDF
-import matplotlib.pyplot as plt
 import tempfile
 import os
 
